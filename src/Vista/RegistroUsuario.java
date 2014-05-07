@@ -223,8 +223,6 @@ private Connection conn;
             }
         });
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\feña\\Desktop\\12.PNG")); // NOI18N
-
         jButton8.setText("Modificar");
         jButton8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -232,7 +230,7 @@ private Connection conn;
             }
         });
 
-        jLabel8.setText("Monto");
+        jLabel8.setText("telefono");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

@@ -268,11 +268,6 @@
       </Events>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel7">
-      <Properties>
-        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\fe&#xf1;a\Desktop\12.PNG"/>
-        </Property>
-      </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="jButton8">
       <Properties>
@@ -284,7 +279,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel8">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Monto"/>
+        <Property name="text" type="java.lang.String" value="telefono"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="mon">

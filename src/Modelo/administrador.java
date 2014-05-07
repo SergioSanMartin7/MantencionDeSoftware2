@@ -10,7 +10,7 @@ package Modelo;
  *
  * @author feña
  */
-public class Banco {
+public class administrador {
     private String nombre,sucursal,direccion,comuna;
 
     public String getNombre() {
@@ -45,7 +45,7 @@ public class Banco {
         this.comuna = comuna;
     }
 
-    public Banco(String nombre, String sucursal, String direccion, String comuna) {
+    public administrador(String nombre, String sucursal, String direccion, String comuna) {
         this.nombre = nombre;
         this.sucursal = sucursal;
         this.direccion = direccion;
